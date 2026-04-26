@@ -220,9 +220,13 @@ If the App is discontinued and no successor entity acquires the service, we will
 
 ## 14. Third-Party Services
 
-The App uses third-party services to provide its functionality. These services are governed by their own terms of service and privacy policies. We are not responsible for the practices, availability, or content of any third-party services.
+### 14.1 AI Service Providers
 
-By using the App, you acknowledge that your data may be processed by third-party service providers for purposes such as authentication, data storage, payment processing, analytics, and error monitoring.
+To power the App's facial analysis and AI coaching features, your facial photographs, chat messages, and basic profile information (name and gender) are sent to third-party AI service providers for processing. Our current AI providers include services such as **Google (Gemini)**, **OpenAI**, **Anthropic**, and **xAI**. These providers process your data solely to generate results and do not retain your data or use it for model training. The specific providers used may change over time; our Privacy Policy will always reflect the current list.
+
+### 14.2 Other Service Providers
+
+By using the App, you acknowledge that your data may also be processed by third-party service providers for purposes such as authentication, data storage, payment processing, analytics, and error monitoring.
 
 ---
 

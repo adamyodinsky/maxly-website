@@ -97,10 +97,10 @@ export default function PrivacyPolicyPage() {
           Your facial photographs, chat messages, scan result context, and basic profile information (name and gender) are sent to third-party AI service providers for processing. These providers power the App's facial analysis and AI coaching features.
         </p>
         <p>
-          Our current AI provider does <strong>not</strong> retain your data or use it to train their models. Your data is processed solely to generate responses and is not stored by the AI provider after processing.
+          Our current AI service providers include <strong>Google (Gemini)</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong>, and <strong>xAI</strong>. This list may be updated from time to time; the current version of this Privacy Policy will always reflect our active providers.
         </p>
         <p>
-          Our AI service provider may change over time. This Privacy Policy will be updated to reflect any material changes in how your data is processed.
+          Our AI providers do <strong>not</strong> retain your data or use it to train their models. Your data is processed solely to generate responses and is not stored by the AI providers after processing.
         </p>
 
         <h3>3.2 Infrastructure Providers</h3>

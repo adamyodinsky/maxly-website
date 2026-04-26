@@ -274,11 +274,15 @@ export default function EULAPage() {
 
       <section id="third-party">
         <h2>14. Third-Party Services</h2>
+
+        <h3>14.1 AI Service Providers</h3>
         <p>
-          The App uses third-party services to provide its functionality. These services are governed by their own terms of service and privacy policies. We are not responsible for the practices, availability, or content of any third-party services.
+          To power the App's facial analysis and AI coaching features, your facial photographs, chat messages, and basic profile information (name and gender) are sent to third-party AI service providers for processing. Our current AI providers include services such as <strong>Google (Gemini)</strong>, <strong>OpenAI</strong>, <strong>Anthropic</strong>, and <strong>xAI</strong>. These providers process your data solely to generate results and do not retain your data or use it for model training. The specific providers used may change over time; our Privacy Policy will always reflect the current list.
         </p>
+
+        <h3>14.2 Other Service Providers</h3>
         <p>
-          By using the App, you acknowledge that your data may be processed by third-party service providers for purposes such as authentication, data storage, payment processing, analytics, and error monitoring.
+          By using the App, you acknowledge that your data may also be processed by third-party service providers for purposes such as authentication, data storage, payment processing, analytics, and error monitoring.
         </p>
       </section>
 
