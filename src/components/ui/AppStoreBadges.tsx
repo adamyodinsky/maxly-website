@@ -9,7 +9,7 @@ export default function AppStoreBadges({ className = '' }: AppStoreBadgesProps) 
     <div className={`flex flex-wrap items-center justify-center gap-4 ${className}`}>
       {/* Apple App Store */}
       <motion.a
-        href="https://apps.apple.com/app/maxly"
+        href="https://apps.apple.com/us/app/maxly-looksmax-ai-coach/id6760749196"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center gap-3 px-6 py-3 rounded-xl bg-maxly-surface border border-maxly-surface-border hover:border-maxly-primary/30 transition-all no-underline"
@@ -25,31 +25,6 @@ export default function AppStoreBadges({ className = '' }: AppStoreBadgesProps) 
           </div>
           <div className="text-sm font-body font-semibold text-white leading-tight">
             App Store
-          </div>
-        </div>
-      </motion.a>
-
-      {/* Google Play */}
-      <motion.a
-        href="https://play.google.com/store/apps/details?id=com.adamsolutions.maxly"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-flex items-center gap-3 px-6 py-3 rounded-xl bg-maxly-surface border border-maxly-surface-border hover:border-maxly-primary/30 transition-all no-underline"
-        whileHover={{ scale: 1.03 }}
-        whileTap={{ scale: 0.97 }}
-      >
-        <svg viewBox="0 0 24 24" fill="none" className="w-6 h-6">
-          <path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92z" fill="#4285F4" />
-          <path d="M17.556 8.236L5.148.467C4.626.165 4.064.028 3.609.028L13.792 12 17.556 8.236z" fill="#EA4335" />
-          <path d="M3.609 23.972c.455 0 1.017-.137 1.539-.44l12.408-7.768L13.792 12 3.609 22.186V23.972z" fill="#34A853" />
-          <path d="M21.393 12c0-.586-.313-1.17-.86-1.514L17.556 8.236 13.792 12l3.764 3.764 2.977-2.25c.547-.344.86-.928.86-1.514z" fill="#FBBC04" />
-        </svg>
-        <div className="text-left">
-          <div className="text-[10px] font-body text-maxly-text-secondary leading-tight">
-            GET IT ON
-          </div>
-          <div className="text-sm font-body font-semibold text-white leading-tight">
-            Google Play
           </div>
         </div>
       </motion.a>
